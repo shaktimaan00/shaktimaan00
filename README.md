@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my minor project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning about **AI/LLM Concepts**
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, C++, CP**
 
